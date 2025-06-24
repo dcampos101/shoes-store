@@ -1,0 +1,91 @@
+ [ {
+    "id": "zap-001",
+    "nombre": "Zapatilla Hombre Pelikan",
+    "precio": "500.000",
+    "color": "gris",
+    "imagen": "1.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos casuales para hombre Apolo, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños, estilos y colores. Estos zapatos masculinos están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "El modelo Bangu llega a la familia Hush Puppies como una propuesta nueva e innovadora dentro de la línea Revo, buscando combinar toda la comodidad y la flexibilidad de la suela Comfort Flex, con la frescura de un aparado finamente tejido, entregando en cada paso más comodidad y ventilación para una experiencia única en los días de calor."
+  },
+  {
+    "id": "zap-002",
+    "nombre": "Zapatilla Hombre Matrix",
+    "precio": "600.000",
+    "color": "negro",
+    "imagen": "2.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos causales para hombre Consin, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños y colores. Estos zapatos están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Su estilo clásico y atemporal te brinda un look sofisticado y relajado. Con su suela de goma, obtendrás una tracción excepcional en cada paso, asegurando tu seguridad y comodidad."
+  },
+  {
+    "id": "zap-003",
+    "nombre": "Zapatilla Hombre Cemelot",
+    "precio": "340.000",
+    "color": "negro",
+    "imagen": "3.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos causales para hombre Jairo, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños y colores. Estos mocasines están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Para mantener estos mocasines en perfectas condiciones por más tiempo, te recomendamos llevar el Shampoo y Protector, los cuales extenderán la vida útil de este producto por muchos años."
+  },
+  {
+    "id": "zap-004",
+    "nombre": "Zapatilla Hombre Party",
+    "precio": "295.000",
+    "color": "otro",
+    "imagen": "4.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos causales para hombre Jairo, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños y colores. Estos mocasines están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Su estilo clásico y atemporal te brinda un look sofisticado y relajado. Con su suela de goma, obtendrás una tracción excepcional en cada paso, asegurando tu seguridad y comodidad."
+  },
+  {
+    "id": "zap-005",
+    "nombre": "Zapatilla Hombre Alpha",
+    "precio": "545.000",
+    "color": "azul",
+    "imagen": "5.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos de vestir para hombre Jazz, se ajustan a todo tipo de ocasiones gracias a su versatilidad, tecnología y diseños. Estos zapatos formales masculinos están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Para mantener estos zapatos en perfectas condiciones por más tiempo, te recomendamos llevar la Escobilla Aplicadora y Crema Renovadora, que extenderán la vida útil de este producto por muchos años."
+  },
+  {
+    "id": "zap-006",
+    "nombre": "Slip on Hombre Camelot",
+    "precio": "576.000",
+    "color": "azul",
+    "imagen": "6.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Las zapatillas para Hombre Coral, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños y colores. Estas zapatillas están diseñadas para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Diseño pensado para adaptarse a la dinámica del movimiento natural del pie. Materiales innovadores para minimizar el peso sin sacrificar el soporte."
+  },
+  {
+    "id": "zap-007",
+    "nombre": "Zapatilla Hombre Cemelot",
+    "precio": "258.000",
+    "color": "café",
+    "imagen": "7.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos casuales para hombre Bangu, se ajustan a todo tipo de ocasiones gracias a su versatilidad, tecnología y diseños. Estos zapatos formales masculinos están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Para mantenerlos en perfectas condiciones por más tiempo, te recomendamos llevar el Protector Gamuzados, que extenderá la vida útil de este producto por muchos años."
+  },
+  {
+    "id": "zap-008",
+    "nombre": "Zapatilla Hombre Pelikan",
+    "precio": "375.000",
+    "color": "café",
+    "imagen": "9.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos causales para hombre Briggs, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños y colores. Estos zapatos están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Su estilo clásico y atemporal te brinda un look sofisticado y relajado. Con su suela de goma, obtendrás una tracción excepcional en cada paso, asegurando tu seguridad y comodidad."
+  },
+  {
+    "id": "zap-009",
+    "nombre": "Zapatilla Hombre Alpha",
+    "precio": "378.000",
+    "color": "café",
+    "imagen": "10.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Sumérgete en una comodidad sin igual con las zapatillas Petro. Estas zapatillas no solo destacan por su estilo moderno, sino que también combinan la máxima comodidad en cada paso. Descubre una nueva dimensión de confort y elegancia con las Petro, donde la moda se encuentra con la sensación de estar en casa.",
+    "tecnologia": "Para mantener tu producto en perfectas condiciones, te recomendamos llevar nuestro producto de limpieza Protector Gamuzados."
+  }
+  ]
