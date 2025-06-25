@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 export default function ProductCard({ producto }) {
   return (
-    <div className="border rounded-lg p-4 text-center shadow hover:shadow-lg">
+    <div className="p-4 text-center shadow hover:shadow-lg">
       <Link to={`/producto/${producto.id}`}>
 
         <div className="max-h-24 max-w-24 mx-auto flex items-center justify-center">

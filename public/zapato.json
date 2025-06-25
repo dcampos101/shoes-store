@@ -87,5 +87,65 @@
     "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
     "detalles": "Sumérgete en una comodidad sin igual con las zapatillas Petro. Estas zapatillas no solo destacan por su estilo moderno, sino que también combinan la máxima comodidad en cada paso. Descubre una nueva dimensión de confort y elegancia con las Petro, donde la moda se encuentra con la sensación de estar en casa.",
     "tecnologia": "Para mantener tu producto en perfectas condiciones, te recomendamos llevar nuestro producto de limpieza Protector Gamuzados."
+  },
+  {
+    "id": "zap-0010",
+    "nombre": "Slip on Hombre Camelot",
+    "precio": "148.000",
+    "color": "café",
+    "imagen": "11.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos causales para hombre Jairo, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños y colores. Estos mocasines están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Su estilo clásico y atemporal te brinda un look sofisticado y relajado. Con su suela de goma, obtendrás una tracción excepcional en cada paso, asegurando tu seguridad y comodidad."
+  },
+  {
+    "id": "zap-0011",
+    "nombre": "Zapatilla Hombre Pelikan",
+    "precio": "535.000",
+    "color": "café",
+    "imagen": "15.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos casuales para hombre Apolo, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños, estilos y colores. Estos zapatos masculinos están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Su estilo clásico y atemporal te brinda un look sofisticado y relajado. Con su suela de goma, obtendrás una tracción excepcional en cada paso, asegurando tu seguridad y comodidad."
+  },
+  {
+    "id": "zap-0012",
+    "nombre": "Zapatilla Hombre Alpha",
+    "precio": "125.000",
+    "color": "café",
+    "imagen": "16.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos causales para hombre Jairo, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños y colores. Estos mocasines están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Su estilo clásico y atemporal te brinda un look sofisticado y relajado. Con su suela de goma, obtendrás una tracción excepcional en cada paso, asegurando tu seguridad y comodidad."
+  },
+  {
+    "id": "zap-0013",
+    "nombre": "Zapatilla Hombre Cemelot",
+    "precio": "585.000",
+    "color": "café",
+    "imagen": "17.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos causales para hombre Consin, se ajustan a todo tipo de ocasiones gracias a su versatilidad de diseños y colores. Estos zapatos están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Su estilo clásico y atemporal te brinda un look sofisticado y relajado. Con su suela de goma, obtendrás una tracción excepcional en cada paso, asegurando tu seguridad y comodidad."
+  },
+  {
+    "id": "zap-0014",
+    "nombre": "Zapatilla Hombre Matrix",
+    "precio": "139.000",
+    "color": "café",
+    "imagen": "18.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Los zapatos casuales para hombre Bangu, se ajustan a todo tipo de ocasiones gracias a su versatilidad, tecnología y diseños. Estos zapatos formales masculinos están diseñados para apoyar el movimiento natural y equilibrado del cuerpo para brindar comodidad durante todo el día.",
+    "tecnologia": "Su estilo clásico y atemporal te brinda un look sofisticado y relajado. Con su suela de goma, obtendrás una tracción excepcional en cada paso, asegurando tu seguridad y comodidad."
+  },
+  {
+    "id": "zap-0015",
+    "nombre": "Zapatilla Hombre Pelikan",
+    "precio": "285.000",
+    "color": "café",
+    "imagen": "19.jpg",
+    "tallas": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5],
+    "detalles": "Sumérgete en una comodidad sin igual con las zapatillas Petro. Estas zapatillas no solo destacan por su estilo moderno, sino que también combinan la máxima comodidad en cada paso. Descubre una nueva dimensión de confort y elegancia con las Petro, donde la moda se encuentra con la sensación de estar en casa.",
+    "tecnologia": "Para mantener tu producto en perfectas condiciones, te recomendamos llevar nuestro producto de limpieza Protector Gamuzados."
   }
   ]
